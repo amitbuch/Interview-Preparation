@@ -1,9 +1,9 @@
 ## "Don't think, Feel..." 
 Grand Master Bruce Lee in **Enter the Dragon.**
-
+---
 ### Job-Interview-Preparation
 Resources for Technical and Behavioral Interviews
-
+---
 ### I used multiple resources to prepare for Data Structures and Algorithm based technical interviews.
 
 The Youtube and Udemy have helped me a lot learning this paradigm. Being a physicist, many of these were not tought to me in a class setting, so I had to invest myself in learning and practicing these.
