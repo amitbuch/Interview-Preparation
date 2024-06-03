@@ -1,5 +1,4 @@
-* ## Don't think, Feel...*
-* ## Grand Master Bruce Lee in Enter the Dragon.*
+* ## Don't think, Feel... ## Grand Master Bruce Lee in Enter the Dragon.*
 
 ### Job-Interview-Preparation
 Resources for Technical and Behavioral Interviews
