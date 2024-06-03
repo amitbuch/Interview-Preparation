@@ -1,5 +1,8 @@
-# Interview-Preparation
+# Job-Interview-Preparation
 Resources for Technical and Behavioral Interviews
+
+*Don't think, Feel...* 
+*Grand Master Bruce Lee in Enter the Dragon.*
 
 ## I used multiple resources to prepare for Data Structures and Algorithm based technical interviews.
 
