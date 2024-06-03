@@ -16,8 +16,8 @@ I compare this skill to martial arts, where constant practice keeps you fit and 
 Folloing authors have helped me learn this skill and I feel indebted to them.
 
 
--Step 1 : Udemy : Elshad Karimov Course - Best for novice starter. Long but through introduction to this topic.
--Step 2 : Youtube : Neetcode.io author. This website is invaluable one you finished the initial course above. Follow his step by step learning path.
+- Step 1 : Udemy : Elshad Karimov Course - Best for novice starter. Long but through introduction to this topic.
+- Step 2 : Youtube : Neetcode.io author. This website is invaluable one you finished the initial course above. Follow his step by step learning path.
 
 Next move to Leetcode, HackerRank whatever interests and challenges you.
 
