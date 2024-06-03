@@ -1,5 +1,5 @@
 ## "Don't think, Feel..." 
-Grand Master Bruce Lee in **Enter the Dragon.*
+Grand Master Bruce Lee in *Enter the Dragon.*
 
 ---
 
