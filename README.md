@@ -1,8 +1,11 @@
 ## "Don't think, Feel..." 
-Grand Master Bruce Lee in **Enter the Dragon.**
+*Grand Master Bruce Lee in **Enter the Dragon.*
+
 ---
+
 ### Job-Interview-Preparation
 Resources for Technical and Behavioral Interviews
+
 ---
 ### I used multiple resources to prepare for Data Structures and Algorithm based technical interviews.
 
